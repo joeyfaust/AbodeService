@@ -1,0 +1,5 @@
+Options -Multiviews
+PassengerResolveSymlinksInDocumentRoot on
+RailsEnv production
+RackBaseURI /AbodeService
+SetEnv GEM_HOME /home4/onetwosc/ruby/gems
