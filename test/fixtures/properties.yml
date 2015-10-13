@@ -1,0 +1,13 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  address: MyString
+  beds: 1
+  baths: 1
+  auctionDate: 2015-10-11
+
+two:
+  address: MyString
+  beds: 1
+  baths: 1
+  auctionDate: 2015-10-11
